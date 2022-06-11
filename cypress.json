@@ -1,0 +1,6 @@
+{
+
+    "baseUrl": "https://reqres.in/api/",
+    "chromeWebSecurity":false,
+    "testFiles": "**/*.feature"
+}
